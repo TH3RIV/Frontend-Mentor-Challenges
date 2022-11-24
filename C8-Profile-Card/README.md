@@ -20,8 +20,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [FOR SOLUTION - CLICK HERE!](link)
-- Live Site URL: [FOR LIVE SITE - CLICK HERE!](link)
+- Solution URL: [FOR SOLUTION - CLICK HERE!](https://www.frontendmentor.io/solutions/profile-card-component-challenge-Nar4ORcaft)
+- Live Site URL: [FOR LIVE SITE - CLICK HERE!](https://th3riv.github.io/challenges/Frontend-Mentor/Profile-Card/)
 
 ## My process
 
