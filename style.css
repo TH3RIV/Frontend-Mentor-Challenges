@@ -1,0 +1,26 @@
+/* CUSTOM PROPERTIES */
+
+:root {
+    /* COLORS */
+
+
+    /* FONTS */
+
+
+}
+
+/* RESET */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* GENERAL STYLING */
+
+body {
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+}
