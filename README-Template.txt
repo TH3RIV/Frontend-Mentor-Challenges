@@ -43,7 +43,7 @@
 
 ## Author
 
-- Website - [TH3RIV](https://th3riv.github.io)
+- Website - [https://th3riv.github.io/](https://th3riv.github.io)
 - Frontend Mentor - [@TH3RIV](https://www.frontendmentor.io/profile/TH3RIV)
 - Twitter - [@rivera2444](https://www.twitter.com/rivera2444)
 
