@@ -12,8 +12,8 @@
 
 ### Screenshot
 
-- [Mobile: 375px](./screenshots/375px.png)
-- [Desktop: 1440px](./screenshots/1440px.png)
+![Mobile: 375px](./screenshots/375px.png)
+![Desktop: 1440px](./screenshots/1440px.png)
 
 ### Links
 
