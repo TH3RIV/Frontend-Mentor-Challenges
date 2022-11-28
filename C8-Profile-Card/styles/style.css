@@ -33,11 +33,9 @@ body {
     background-image:
         url(/images/bg-pattern-top.svg),
         url(/images/bg-pattern-bottom.svg);
-    background-position:
-        right 55vw bottom 55vh,
-        left 50vw top 50vh;
+    background-position: right 47vw bottom 35vh , left 42vw top 47vh;
     background-repeat: no-repeat, no-repeat;
-    background-size: 150%, 150%;
+    background-size: cover;
     background-color: var(--clr-primary-cyan);
     font-family: var(--ff-main);
     font-size: var(--fs-name-stats);
@@ -70,6 +68,7 @@ body {
     text-align: center;
     gap: 1rem;
     max-width: 325px;
+    width:90vh;
     border-radius: 1rem;
     overflow: hidden;
 }
@@ -143,15 +142,5 @@ footer {
 
     .small {
         font-size: 0.85rem;
-    }
-}
-
-@media (min-width: 1440px) {
-    body {
-        background-size: 50%;
-
-        background-position:
-            right 52.5vw bottom 40vh,
-            left 50vw top 48vh;
     }
 }
