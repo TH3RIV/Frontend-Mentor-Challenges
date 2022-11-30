@@ -21,8 +21,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [FOR SOLUTION - CLICK HERE!](link)
-- Live Site URL: [FOR LIVE SITE - CLICK HERE!](link)
+- Solution URL: [FOR SOLUTION - CLICK HERE!](https://www.frontendmentor.io/solutions/stats-preview-card-Qoha-pbd14)
+- Live Site URL: [FOR LIVE SITE - CLICK HERE!](https://th3riv.github.io/challenges/Frontend-Mentor/C10-Stats-Preview/)
 
 ## My process
 
