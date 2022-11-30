@@ -1,3 +1,7 @@
+# Frontend Mentor - Stats preview card component solution
+
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -46,33 +50,3 @@
 - Website - [https://th3riv.github.io/](https://th3riv.github.io)
 - Frontend Mentor - [@TH3RIV](https://www.frontendmentor.io/profile/TH3RIV)
 - Twitter - [@rivera2444](https://www.twitter.com/rivera2444)
-
-
- <footer>
-    <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-      Coded by <a href="https://www.frontendmentor.io/profile/TH3RIV">TH3RIV</a>.
-    </div>
- </footer>
-
-*************************************************************
-
-/* RESET */
-
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-/* CUSTOM PROPERTIES */
-
-:root {
-
-}
-
-/* GENERAL STYLING */
-
-
-
-/* CONTENT SPECIFIC STYLING */
