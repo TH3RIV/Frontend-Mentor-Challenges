@@ -21,8 +21,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [FOR SOLUTION - CLICK HERE!](link)
-- Live Site URL: [FOR LIVE SITE - CLICK HERE!](link)
+- Solution URL: [FOR SOLUTION - CLICK HERE!](https://www.frontendmentor.io/solutions/advice-generator-app-okjc_z7lfQ)
+- Live Site URL: [FOR LIVE SITE - CLICK HERE!](https://th3riv.github.io/challenges/Frontend-Mentor/C11-Advice-Generator/)
 
 ## My process
 
