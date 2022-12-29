@@ -1,3 +1,7 @@
+# Frontend Mentor - Advice generator app solution
+
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -26,16 +30,18 @@
 2. Plan out the work order.
 3. Complete the HTML.
 4. Style using CSS.
-5. Make sure my project looks as close to the provided design as possible.
-6. Have a well deserved mug of coffee.
-7. Upload the solution.
+5. Make it functional with JS.
+6. Make sure my project looks as close to the provided design as possible.
+7. Have a well deserved mug of coffee.
+8. Upload the solution.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Mobile-first workflow
-- Responsive Design
+- Semantic HTML5 markup.
+- CSS custom properties.
+- Vanilla Javascript.
+- Mobile-first workflow.
+- Responsive Design.
 
 ### Useful resources
 
@@ -46,33 +52,3 @@
 - Website - [https://th3riv.github.io/](https://th3riv.github.io)
 - Frontend Mentor - [@TH3RIV](https://www.frontendmentor.io/profile/TH3RIV)
 - Twitter - [@rivera2444](https://www.twitter.com/rivera2444)
-
-
-  <footer>
-    <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-      Coded by <a href="https://www.frontendmentor.io/profile/TH3RIV" target="_blank">TH3RIV</a>.
-    </div>
-  </footer>
-
-*************************************************************
-
-/* RESET */
-
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-/* CUSTOM PROPERTIES */
-
-:root {
-
-}
-
-/* GENERAL STYLING */
-
-
-
-/* CONTENT SPECIFIC STYLING */
